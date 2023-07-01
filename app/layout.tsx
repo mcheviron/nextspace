@@ -1,7 +1,7 @@
-import NavMenu from "@/app/NavMenu";
 import "./globals.css";
 import { Open_Sans } from "next/font/google";
 import AuthProvider from "./AuthProvider";
+import NavMenu from "./NavMenu";
 
 const myFont = Open_Sans({ weight: "400", subsets: ["latin"] });
 
